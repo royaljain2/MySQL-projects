@@ -1,3 +1,5 @@
+![Instagram DBMS schema](https://user-images.githubusercontent.com/86144675/135872957-ab5e1b24-a774-4981-a448-68554d5a7e0a.png)
+
 CREATE DATABASE instagram_clone;
 USE instagram_clone; 
 
